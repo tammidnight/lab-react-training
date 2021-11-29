@@ -1,0 +1,18 @@
+.styledDiv {
+  border: 1px solid black;
+  margin: 2rem;
+  padding: 0.5rem;
+}
+
+.idCard {
+  display: flex;
+}
+
+.idCard p {
+  margin: 0;
+}
+
+.idCardImg {
+  align-self: center;
+  margin-right: 1rem;
+}

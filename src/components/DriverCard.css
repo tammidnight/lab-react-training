@@ -1,0 +1,22 @@
+.driverImg {
+  object-fit: cover;
+  width: 5rem;
+  height: 5rem;
+  border-radius: 100rem;
+  margin-right: 0.5rem;
+}
+
+.driverCard {
+  background-color: rgb(75, 75, 190);
+  border-radius: 1rem;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2rem;
+  padding: 1rem;
+}
+
+h2 {
+  margin: 0.2rem;
+}

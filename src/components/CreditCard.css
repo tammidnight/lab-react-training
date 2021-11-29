@@ -1,0 +1,35 @@
+.creditCardImgDiv {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.creditCardImg {
+  width: 4rem;
+  margin: 1rem;
+}
+
+.creditCardInfo {
+  display: flex;
+}
+
+.creditCardExpire {
+  margin: auto 2rem 0 2rem;
+}
+
+.creditCardDiv {
+  width: 30%;
+  border-radius: 0.5rem;
+}
+
+.creditCardDiv h1 {
+  text-align: center;
+}
+
+.bank {
+  margin-bottom: 0;
+}
+
+.owner {
+  margin-top: 0;
+  margin-left: 2rem;
+}
