@@ -1,0 +1,11 @@
+.facebook {
+  border: 1px solid black;
+  margin: 2rem;
+  display: flex;
+  flex-direction: row;
+}
+
+img {
+  margin: 1rem;
+  width: 10rem;
+}
